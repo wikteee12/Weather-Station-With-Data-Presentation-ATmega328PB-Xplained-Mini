@@ -8,9 +8,9 @@ I was responsible for the end-to-end development of the system, which included:
 * **Desktop Application**: I designed and implemented the PC-side monitoring application. This involved creating a Graphical User Interface (GUI) and implementing data parsing algorithms using Regular Expressions (Regex) to extract numerical values from sensor text frames and visualize them on dynamic charts in real-time.
 
 **Project carried out by:**
-* Monika Bogdalska 
-* Wiktor Baran
-* Mikołaj Polewka 
+* Monika Bogdalska - KiCAD schematic and docummentation 
+* Wiktor Baran - end-to-end development of the system
+* Mikołaj Polewka - KiCAD PCB design
 
 **Supervisor:** Dr Eng. Jacek Stępień
 
