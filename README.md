@@ -1,9 +1,9 @@
 # ATmega Microcontroller with Sensors and PC Application
 ### My Contribution
 I was responsible for the end-to-end development of the system, which included:
-**Hardware Integration:** Connecting and configuring environmental sensors with the ATmega328 microcontroller
-**Firmware Development:** Writing the entire C code for the microcontroller, including data acquisition and UART transmission logic
-**Desktop Application:** Designing and implementing the PC application for real-time data visualization
+**Hardware Integration: Connecting and configuring environmental sensors with the ATmega328 microcontroller
+**Firmware Development: Writing the entire C code for the microcontroller, including data acquisition and UART transmission logic
+**Desktop Application: Designing and implementing the PC application for real-time data visualization
 
 **Project carried out by:**
 * Monika Bogdalska 
