@@ -1,9 +1,11 @@
 # ATmega Microcontroller with Sensors and PC Application
 ### My Contribution
+
 I was responsible for the end-to-end development of the system, which included:
-**Hardware Integration: Connecting and configuring environmental sensors with the ATmega328 microcontroller
-**Firmware Development: Writing the entire C code for the microcontroller, including data acquisition and UART transmission logic
-**Desktop Application: Designing and implementing the PC application for real-time data visualization
+
+* **Hardware Integration**: I designed and implemented the physical connections between the ATmega328 microcontroller and the sensor array (temperature, pressure, humidity). I ensured proper electrical integration and sensor configuration for accurate data acquisition.
+* **Firmware Development**: I wrote the complete firmware for the microcontroller in C. This included initializing peripherals, implementing periodic sensor sampling, and developing the logic for data transmission via the UART interface.
+* **Desktop Application**: I designed and implemented the PC-side monitoring application. This involved creating a Graphical User Interface (GUI) and implementing data parsing algorithms using Regular Expressions (Regex) to extract numerical values from sensor text frames and visualize them on dynamic charts in real-time.
 
 **Project carried out by:**
 * Monika Bogdalska 
